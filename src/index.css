@@ -134,8 +134,7 @@ code {
 }
 .navbar ul { 
   transition: all 0.2s;
-
-  margin-left: 17rem;
+  margin-left: 10rem;
   list-style: none;
 }
 .navbar ul li {
@@ -412,7 +411,7 @@ ul li a {
     width: 49.9%;
   }
   .navbar ul {
-    margin-left: 5rem;
+    margin-left: 1rem;
   }
   .container {
     max-width: 960px;
